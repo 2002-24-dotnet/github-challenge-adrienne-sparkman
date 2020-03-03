@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Palindrome.Client/1.0.0": {
+        "dependencies": {
+          "Palindrome.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Palindrome.Client.dll": {}
+        }
+      },
+      "Palindrome.Domain/1.0.0": {
+        "runtime": {
+          "Palindrome.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Palindrome.Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Palindrome.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

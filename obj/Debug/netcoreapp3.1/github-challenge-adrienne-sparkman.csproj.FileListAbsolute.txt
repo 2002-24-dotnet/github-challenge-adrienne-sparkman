@@ -1,0 +1,3 @@
+/home/songbird/revature_challenges/1_csharp/github-challenge-adrienne-sparkman/obj/Debug/netcoreapp3.1/github-challenge-adrienne-sparkman.csprojAssemblyReference.cache
+/home/songbird/revature_challenges/1_csharp/github-challenge-adrienne-sparkman/obj/Debug/netcoreapp3.1/github-challenge-adrienne-sparkman.AssemblyInfoInputs.cache
+/home/songbird/revature_challenges/1_csharp/github-challenge-adrienne-sparkman/obj/Debug/netcoreapp3.1/github-challenge-adrienne-sparkman.AssemblyInfo.cs

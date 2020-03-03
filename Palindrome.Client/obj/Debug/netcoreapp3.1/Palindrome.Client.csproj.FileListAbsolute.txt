@@ -1,0 +1,14 @@
+/home/songbird/revature_challenges/1_csharp/github-challenge-adrienne-sparkman/Palindrome.Client/bin/Debug/netcoreapp3.1/Palindrome.Client
+/home/songbird/revature_challenges/1_csharp/github-challenge-adrienne-sparkman/Palindrome.Client/bin/Debug/netcoreapp3.1/Palindrome.Client.deps.json
+/home/songbird/revature_challenges/1_csharp/github-challenge-adrienne-sparkman/Palindrome.Client/bin/Debug/netcoreapp3.1/Palindrome.Client.runtimeconfig.json
+/home/songbird/revature_challenges/1_csharp/github-challenge-adrienne-sparkman/Palindrome.Client/bin/Debug/netcoreapp3.1/Palindrome.Client.runtimeconfig.dev.json
+/home/songbird/revature_challenges/1_csharp/github-challenge-adrienne-sparkman/Palindrome.Client/bin/Debug/netcoreapp3.1/Palindrome.Client.dll
+/home/songbird/revature_challenges/1_csharp/github-challenge-adrienne-sparkman/Palindrome.Client/bin/Debug/netcoreapp3.1/Palindrome.Client.pdb
+/home/songbird/revature_challenges/1_csharp/github-challenge-adrienne-sparkman/Palindrome.Client/bin/Debug/netcoreapp3.1/Palindrome.Domain.dll
+/home/songbird/revature_challenges/1_csharp/github-challenge-adrienne-sparkman/Palindrome.Client/bin/Debug/netcoreapp3.1/Palindrome.Domain.pdb
+/home/songbird/revature_challenges/1_csharp/github-challenge-adrienne-sparkman/Palindrome.Client/obj/Debug/netcoreapp3.1/Palindrome.Client.csprojAssemblyReference.cache
+/home/songbird/revature_challenges/1_csharp/github-challenge-adrienne-sparkman/Palindrome.Client/obj/Debug/netcoreapp3.1/Palindrome.Client.AssemblyInfoInputs.cache
+/home/songbird/revature_challenges/1_csharp/github-challenge-adrienne-sparkman/Palindrome.Client/obj/Debug/netcoreapp3.1/Palindrome.Client.AssemblyInfo.cs
+/home/songbird/revature_challenges/1_csharp/github-challenge-adrienne-sparkman/Palindrome.Client/obj/Debug/netcoreapp3.1/Palindrome.Client.csproj.CopyComplete
+/home/songbird/revature_challenges/1_csharp/github-challenge-adrienne-sparkman/Palindrome.Client/obj/Debug/netcoreapp3.1/Palindrome.Client.dll
+/home/songbird/revature_challenges/1_csharp/github-challenge-adrienne-sparkman/Palindrome.Client/obj/Debug/netcoreapp3.1/Palindrome.Client.pdb

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/songbird/.dotnet/store/|arch|/|tfm|",
+      "/home/songbird/.nuget/packages"
+    ]
+  }
+}

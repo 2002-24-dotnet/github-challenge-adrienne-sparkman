@@ -1,0 +1,8 @@
+/home/songbird/revature_challenges/1_csharp/github-challenge-adrienne-sparkman/Palindrome.Domain/bin/Debug/netstandard2.0/Palindrome.Domain.deps.json
+/home/songbird/revature_challenges/1_csharp/github-challenge-adrienne-sparkman/Palindrome.Domain/bin/Debug/netstandard2.0/Palindrome.Domain.dll
+/home/songbird/revature_challenges/1_csharp/github-challenge-adrienne-sparkman/Palindrome.Domain/bin/Debug/netstandard2.0/Palindrome.Domain.pdb
+/home/songbird/revature_challenges/1_csharp/github-challenge-adrienne-sparkman/Palindrome.Domain/obj/Debug/netstandard2.0/Palindrome.Domain.csprojAssemblyReference.cache
+/home/songbird/revature_challenges/1_csharp/github-challenge-adrienne-sparkman/Palindrome.Domain/obj/Debug/netstandard2.0/Palindrome.Domain.AssemblyInfoInputs.cache
+/home/songbird/revature_challenges/1_csharp/github-challenge-adrienne-sparkman/Palindrome.Domain/obj/Debug/netstandard2.0/Palindrome.Domain.AssemblyInfo.cs
+/home/songbird/revature_challenges/1_csharp/github-challenge-adrienne-sparkman/Palindrome.Domain/obj/Debug/netstandard2.0/Palindrome.Domain.dll
+/home/songbird/revature_challenges/1_csharp/github-challenge-adrienne-sparkman/Palindrome.Domain/obj/Debug/netstandard2.0/Palindrome.Domain.pdb
